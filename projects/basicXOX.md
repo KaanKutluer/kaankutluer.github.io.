@@ -3,4 +3,4 @@
 # Projects
 ## Basic XOX
 
-![adjfab](https://kaankutluer.github.io/kaankutluer.github.io./Resources/XOXcodeimage.png)
+![](https://kaankutluer.github.io/kaankutluer.github.io./Resources/XOXcodeimage.png)
