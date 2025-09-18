@@ -1,4 +1,4 @@
-[Home](README.md) | [Projects](projects.md) | [Big Ideas](big_ideas.md) | [Documentation](documentation.md)
+[Home](https://kaankutluer.github.io/kaankutluer.github.io./README) | [Projects](https://kaankutluer.github.io/kaankutluer.github.io./projects) | [Big Ideas](https://kaankutluer.github.io/kaankutluer.github.io./big_ideas) | [Documentation](https://kaankutluer.github.io/kaankutluer.github.io./documentation)
 
 # Projects
 ## Basic XOX
