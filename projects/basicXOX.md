@@ -5,3 +5,5 @@
 A simple XOX game made in Scratch. The game is meant to be played with a friend, with each click switching each box between X, O and blank.
 
 ![XOXCodeBlocks](https://kaankutluer.github.io/kaankutluer.github.io./Resources/XOXcodeimage.png)
+
+[Documentation](https://kaankutluer.github.io/documentation/scratchXOX)
