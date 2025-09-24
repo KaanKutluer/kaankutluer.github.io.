@@ -6,4 +6,4 @@ A simple XOX game made in Scratch. The game is meant to be played with a friend,
 
 ![XOXCodeBlocks](https://kaankutluer.github.io/kaankutluer.github.io./Resources/XOXcodeimage.png)
 
-[Documentation](https://kaankutluer.github.io/documentation/scratchXOX)
+[Documentation](https://kaankutluer.github.io/documentation/BasicXOX)
